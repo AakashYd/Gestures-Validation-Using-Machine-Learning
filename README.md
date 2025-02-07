@@ -45,7 +45,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries, contact:
-Aakash Yadav  
-Email: [ay9878169@gmail.com]
